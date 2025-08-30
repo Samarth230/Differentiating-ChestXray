@@ -1,0 +1,23 @@
+{
+  "Normal": {
+    "count": 1,
+    "mean": 1.0,
+    "std": 0.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "Pneumonia": {
+    "count": 1,
+    "mean": 1.0,
+    "std": 0.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "Tuberculosis": {
+    "count": 1,
+    "mean": 1.0,
+    "std": 0.0,
+    "min": 1.0,
+    "max": 1.0
+  }
+}

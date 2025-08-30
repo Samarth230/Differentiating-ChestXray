@@ -1,0 +1,4 @@
+image_path,predicted_class,confidence,normal_prob,pneumonia_prob,tuberculosis_prob
+C:\Users\samar\OneDrive\Desktop\compooter\Projects\TEST\IM-0223-0001.jpeg,Normal,1.0,1.0,5.1264767e-11,5.3225514e-12
+C:\Users\samar\OneDrive\Desktop\compooter\Projects\TEST\person21_bacteria_72.jpeg,Pneumonia,1.0,9.3156525e-17,1.0,9.594427e-27
+C:\Users\samar\OneDrive\Desktop\compooter\Projects\TEST\TB.16.jpg,Tuberculosis,1.0,1.2083846e-24,1.888028e-29,1.0

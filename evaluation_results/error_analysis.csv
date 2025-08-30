@@ -1,0 +1,7 @@
+image_path,true_label,predicted_label,confidence,is_correct,true_probability,predicted_probability
+data\normal\NORMAL2-IM-0611-0001.jpeg,Normal,Pneumonia,0.99902236,False,0.0009776498,0.99902236
+data\normal\NORMAL2-IM-0723-0001.jpeg,Normal,Pneumonia,0.71969277,False,0.28028932,0.71969277
+data\normal\IM-0647-0001.jpeg,Normal,Pneumonia,0.6898457,False,0.31015423,0.6898457
+data\pneumonia\person833_virus_1469.jpeg,Pneumonia,Normal,0.99463564,False,0.0053642774,0.99463564
+data\pneumonia\person1924_bacteria_4832.jpeg,Pneumonia,Normal,0.99403644,False,0.005963584,0.99403644
+data\pneumonia\person1362_virus_2345.jpeg,Pneumonia,Normal,0.81146884,False,0.18853101,0.81146884
